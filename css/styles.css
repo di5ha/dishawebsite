@@ -1,0 +1,124 @@
+.disha-shivakumar {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 34px;
+  line-height: 150%;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  position: absolute;
+
+  align-items: center;
+  justify-content: flex-start;
+}
+.navbar *{
+  color: white !important;
+}
+.navbar-nav{
+  position: absolute;;
+}
+
+.home2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  position: relative;
+  width: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  position: relative;
+  width: 72px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.disha-shivakumar-website {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 72px;
+  line-height: 150%;
+  letter-spacing: -0.02em;
+  top: calc(50% - 130px);
+  left: calc(50% - 426px);
+  position: absolute;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.subtitle{
+ color: #fcf2f2;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 526px);
+  top: calc(50% - 32px);
+  width: 1047px;
+  height: 148px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-1 {
+  flex-shrink: 0;
+  width: 180px;
+  height: 57px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 599.91px;
+  transform-origin: 0 0;
+  transform: rotate(0.054deg) scale(1, 1);
+  overflow: hidden;
+}
+.get-started {
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  position: absolute;
+  left: 33px;
+  top: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2 {
+  z-index: 2;
+  position: absolute;
+  display: flex;
+  width: 800px;
+  color: white;
+  justify-content: center;
+  bottom: 20px;
+  left: 25%;
+} 
+
+
+.get-started.hover{
+  background-color: #28a745;
+  border-color: #28a745;
+  color: white;
+}

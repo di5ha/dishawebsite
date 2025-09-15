@@ -1,0 +1,152 @@
+
+.contact {
+  top: 0%;
+  background-color: rgba(0, 0, 0, 0);
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  color: white;
+}
+.navbar *{
+  color: white !important;
+}
+.navbar-nav{
+  position: absolute;;
+}
+
+.disha-shivakumar {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 34px;
+  line-height: 150%;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 275px;
+  position: absolute;
+  right: 102px;
+  top: 30px;
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  position: relative;
+  width: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  position: relative;
+  width: 72px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.contact2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  position: relative;
+  width: 83px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.contact3 {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 275px;
+  position: absolute;
+  right: 102px;
+  top: 30px;
+}
+.contact-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 72px;
+  line-height: 150%;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: 120px;
+  top: calc(50% - 367px);
+  width: 1278px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.contact-us-subtitle {
+
+ color: #fcf2f2;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: calc(50% - 600px);
+  top: calc(50% - 54px);
+  width: 1047px;
+  height: 148px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2 {
+  z-index: 2;
+  position: absolute;
+  display: flex;
+  width: 800px;
+  color: white;
+  justify-content: center;
+  bottom: 20px;
+  left: 25%;
+} 
+.disha-shivakumar-university-of-maryland-fall-2025 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}

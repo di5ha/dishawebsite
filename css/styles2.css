@@ -1,0 +1,212 @@
+.about-me{
+  box-sizing: border-box;
+  background-color: black;
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+}
+
+.navbar *{
+  
+  color: white !important;
+}
+.navbar-nav{
+  position: absolute;;
+}
+.disha-shivakumar {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 34px;
+  line-height: 150%;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 275px;
+  position: absolute;
+  right: 102px;
+  top: 30px;
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  position: relative;
+  width: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.about2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  position: relative;
+  width: 72px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.about-me-more, .about-me-more *{
+  justify-items: left;
+  text-align: left;
+  justify-content: left;
+  left: 0;
+}
+.course { 
+
+   color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 72px;
+  line-height: 150%;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: 0%;
+  top: calc(50% - 376px);
+  width: 1278px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.budt-748-is-a-capstone-course-for-ms-information-systems-majors-where-students-apply-knowledge-to-develop-real-world-is-solutions-for-business-clients {
+  color: #fcf2f2;
+  left: 5%;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  top: calc(50% - 275px);
+  width: 1047px;
+  height: 148px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2 {
+  z-index: 2;
+  position: absolute;
+  display: flex;
+  width: 800px;
+  color: white;
+  justify-content: center;
+  bottom: 20px;
+  left: 25%;
+} 
+.disha-shivakumar-university-of-maryland-fall-2025 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.semester-details-fall-2025 {
+  color: #ffffff;
+  text-align: left;
+
+  font-family: "-", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: 5%;
+  top: calc(50% - 94px);
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.semester-details-fall-2025-span {
+  
+  font-family: "Inter-SemiBold", sans-serif;
+  font-weight: 600;
+}
+.semester-details-fall-2025-span2 {
+  font-family: "Inter-Regular", sans-serif;
+}
+.semester-details-fall-2025-span {
+  font-family: "Inter-SemiBold", sans-serif;
+  font-weight: 600;
+}
+.semester-details-fall-2025-span2 {
+  font-family: "Inter-Regular", sans-serif;
+}
+.professor-paul-t-shapiro {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: 5%;
+  top: 470px;
+  width: 267px;
+}
+.professor-paul-t-shapiro-span {
+  font-family: "Inter-SemiBold", sans-serif;
+  font-weight: 600;
+}
+.professor-paul-t-shapiro-span2 {
+  font-family: "Inter-Regular", sans-serif;
+}
+.frame-3 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: absolute;
+  left: 5%;
+  top: 536px;
+}
+.teaching-assistants-abhi-gupta-samiha-meah-zam-mozumder {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 22px;
+  line-height: 150%;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: relative;
+}
+.teaching-assistants-abhi-gupta-samiha-meah-zam-mozumder-span {
+  font-family: "Inter-SemiBold", sans-serif;
+  font-weight: 600;
+}
+.teaching-assistants-abhi-gupta-samiha-meah-zam-mozumder-span2 {
+  font-family: "Inter-Regular", sans-serif;
+}
